@@ -24,9 +24,7 @@ When does the blockquotes actually end???
 |**Monday**|**Wednesday*|
 |--------|-----------|
 |Dec 7:  | Dec 9: |
-|--------|-----------|
 |Dec 14:  | Dec 16: |
-|--------|-----------|
 |Dec 21:  | Dec 23: |
 |--------|-----------|
 |Dec 28:  | Jan 30: |
