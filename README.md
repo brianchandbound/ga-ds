@@ -1,7 +1,7 @@
 # General Assembly Data Science - Winter 2015
 
 ## Contact Info 
-*Instructor:* [Brian Chung](bpchung2@gmail.com)
+*Instructor:* [Brian Chung](mailto:bpchung2@gmail.com)
 
 ## Schedule
 
