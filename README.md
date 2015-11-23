@@ -7,8 +7,8 @@
 
 | **Date**     | **Topic**                                  | **Homework** |
 |--------------|--------------------------------------------|---------------|
-| Mon - Dec 7  | Intro To Data Science                      | |
-| Wed - Dec 9  | Probability and Linear Algebra with Pandas | |
+| Mon - Dec 7  | [Intro To Data Science](01_intro)                       | |
+| Wed - Dec 9  | [Probability and Linear Algebra with Pandas](02_pandas) | |
 | Mon - Dec 14 | K Nearest Neighbors | |
 | Wed - Dec 16 | Cross Validation and Naive Bayes | |
 | Mon - Dec 21 | Regression Pt 1 | |
