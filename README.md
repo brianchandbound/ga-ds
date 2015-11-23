@@ -44,4 +44,10 @@
 Please fill out an exit ticket at the end of each session: [Exit Ticket](https://docs.google.com/forms/d/1REdQ7NfMqwOnVqH192eO_vugZz1jlyZP8UZmBkMyO4s/viewform )
 
 ## Final Project
+[Project Description](extra/project.md)
+
+
+
+
+
 
