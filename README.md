@@ -19,16 +19,11 @@ Students are required to bring a laptop to every session with the [Continuum Ana
 You have all been invited to use Slack to chat throughout the day and in class. Please use Slack as the primary means to communicate, ask questions, and work with other students. If you have more questions, feel free to contact the staff through Slack as well.
 
 
-## Final Project
-[Project Description](extra/project.md)
-Milestone 1 - Have problem description and dataset
-Milestone 2 - Started on project
-Milestone 3 - Significant Progress
-Milestone 4 - Project Finished
-
-
-## Homework
-Homework assignments will be listed on the github repo. Students must submit homeworks and related documents as per each homework 
+## Workload
+* Homework assignments will be listed on the github repo within each lesson's folder. Students must submit homeworks (i.e. ipython notebooks, Word docs, etc.) through TODO methods.
+* In addition, there will be a [Final Project](extra/project.md)
+* The project milestones will be treated as homeworks, and students are expected to complete them by the due dates.
+* Due to the intensity and magnitude of the final project, less homework assignments will be given near the end of the course. This is to provide more time to work on the project. 
 
 
 ## Completion Requirements
@@ -36,6 +31,7 @@ Students must fulfill a number of requirements in order to receive General Assem
 * Students must attend 80% of classes (no more than 4 classes missed)
 * Students must complete and submit 80% of all course assignments to instructor satisfaction. Students wil receive timely feedback from staff.
 * Students must successfully submit the course final project as outlined in the [Project Description](extra/project.md). This includes successfully submitting the project milestones, final technical paper, as well as delivering a final presentation.
+* If you are having trouble with the homeworks and/or project, please communicate this with the team. We are here to help you learn and succeed.
 
 
 
@@ -61,7 +57,7 @@ The schedule is subject to change per class needs and desires.
 | Mon - Jan 25 | SVM                                                     | [hw06](11_svm/hw_06.md)        | Feb 1   |
 | Wed - Jan 27 | Ensemble Techniques                                     | [milestone3](extra/project.md) | Feb 17  |
 | Mon - Feb 1  | Decision Trees                                          | [hw07](13_decision/hw_07.md)   | Feb 8   |
-| Wed - Feb 3  | Dimensionality Reduction                                |                                |         |
+| Wed - Feb 3  | Dimensionality Reduction                                | [hw08](14_dimension/hw_08.md)  | Feb 10  |
 | Mon - Feb 8  | NLP                                                     |                                |         |
 | Wed - Feb 10 | Recommendation Systems                                  |                                |         |
 | Mon - Feb 15 | **No Class**                                            |                                |         |
@@ -72,11 +68,11 @@ The schedule is subject to change per class needs and desires.
 | Wed - Mar 2  | TBD                                                     |                                |         |
 | Mon - Mar 7  | Final Presentations                                     |                                |         |
 
+
 ## Additional Resources
 [Simple guide to Git](http://rogerdudler.github.io/git-guide/)
 [Less simple guide to Git](https://www.atlassian.com/git/tutorials)
-
 [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-
+[Top 10 ML Algorithms Simplified](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 
 
