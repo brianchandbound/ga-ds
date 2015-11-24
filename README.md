@@ -12,7 +12,8 @@ Welcome to General Assembly's Chicago Data Science course! This is a foundationa
 * **Exit Tickets:** Please fill out an exit ticket at the end of every session: [Exit Ticket](https://docs.google.com/forms/d/1REdQ7NfMqwOnVqH192eO_vugZz1jlyZP8UZmBkMyO4s/viewform )
 
 ## Course Materials
-Students are required to bring a laptop to every session with the [Continuum Anaconda](https://www.continuum.io/downloads) Python distribution installed.
+Students are required to bring a laptop to every session with the [Continuum Anaconda](https://www.continuum.io/downloads) Python 2.7 distribution installed.
+
 
 ## Slack
 You have all been invited to use Slack to chat throughout the day and in class. Please use Slack as the primary means to communicate, ask questions, and work with other students. If you have more questions, feel free to contact the staff through Slack as well.
@@ -20,10 +21,14 @@ You have all been invited to use Slack to chat throughout the day and in class. 
 
 ## Final Project
 [Project Description](extra/project.md)
+Milestone 1 - Have problem description and dataset
+Milestone 2 - Started on project
+Milestone 3 - Significant Progress
+Milestone 4 - Project Finished
 
 
 ## Homework
-Homework assignments will be listed on the github repo.
+Homework assignments will be listed on the github repo. Students must submit homeworks and related documents as per each homework 
 
 
 ## Completion Requirements
@@ -37,35 +42,35 @@ Students must fulfill a number of requirements in order to receive General Assem
 ## Schedule
 The schedule is subject to change per class needs and desires.
 
-| **Date**     | **Topic**                                               | **Homework Assigned**        | **Homework Due**  |
-|--------------|---------------------------------------------------------|------------------------------|-------------------|
-| Mon - Dec 7  | [Intro To Data Science](01_intro)                       | [hw01](01_intro/hw_01.md)    |                   |
-| Wed - Dec 9  | [Probability and Linear Algebra with Pandas](02_pandas) | [hw02](02_pandas/hw_02.md)   | hw01              |
-| Mon - Dec 14 | [K Nearest Neighbors](03_knn)                           | [hw03](03_knn/hw_03.md)      | hw02              |
-| Wed - Dec 16 | Cross Validation and Naive Bayes | | | 
-| Mon - Dec 21 | Regression Pt 1 | | |
-| Wed - Dec 23 | **No Class** | | |
-| Mon - Dec 28 | **No Class** | | |
-| Wed - Dec 30 | **No Class** | | |
-| Mon - Jan 4  | Regression Pt 2 / Regularization | | |
-| Wed - Jan 6  | LDA | | |
-| Mon - Jan 11 | Logistic Regression | | |
-| Wed - Jan 13 | K Means Clustering | | |
-| Mon - Jan 18 | **No Class** | | |
-| Wed - Jan 20 | Model Assessment | | |
-| Mon - Jan 25 | SVM | | |
-| Wed - Jan 27 | Ensemble Techniques | | |
-| Mon - Feb 1  | Decision Trees | | |
-| Wed - Feb 3  | Dimensionality Reduction | | |
-| Mon - Feb 8  | NLP | | |
-| Wed - Feb 10 | Recommendation Systems | | |
-| Mon - Feb 15 | **No Class** | | |
-| Wed - Feb 17 | Project Preparation Day | | |
-| Mon - Feb 22 | NLP | | |
-| Wed - Feb 24 | Neural Networks | | |
-| Mon - Feb 29 | Map Reduce | |  |
-| Wed - Mar 2  | TBD | | |
-| Mon - Mar 7  | Final Presentations | | |
+| **Date**     | **Topic**                                               | **Homework Assigned**          | **Due** |
+|--------------|---------------------------------------------------------|--------------------------------|---------|
+| Mon - Dec 7  | [Intro To Data Science](01_intro)                       | [hw01](01_intro/hw_01.md)      | Dec 9   |
+| Wed - Dec 9  | [Probability and Linear Algebra with Pandas](02_pandas) | [hw02](02_pandas/hw_02.md)     | Dec 16  |
+| Mon - Dec 14 | [K Nearest Neighbors](03_knn)                           | [milestone1](extra/project.md) | Dec 21  |     
+| Wed - Dec 16 | Cross Validation and Naive Bayes                        |                                |         | 
+| Mon - Dec 21 | Regression Pt 1                                         | [hw03](05_linear_pt1/hw_03.md) | Jan 4   |
+| Wed - Dec 23 | **No Class**                                            |                                |         |
+| Mon - Dec 28 | **No Class**                                            |                                |         |
+| Wed - Dec 30 | **No Class**                                            |                                |         |
+| Mon - Jan 4  | Regression Pt 2 / Regularization                        | [hw04](06_linear_pt2/hw_04.md) | Jan 11  |
+| Wed - Jan 6  | LDA                                                     | [milestone2](extra/project.md) | Jan 25  | 
+| Mon - Jan 11 | Logistic Regression                                     | [hw05](08_logistic/hw_05.md)   | Jan 20  |
+| Wed - Jan 13 | K Means Clustering                                      |                                |         |
+| Mon - Jan 18 | **No Class**                                            |                                |         |
+| Wed - Jan 20 | Model Assessment                                        |                                |         |
+| Mon - Jan 25 | SVM                                                     | [hw06](11_svm/hw_06.md)        | Feb 1   |
+| Wed - Jan 27 | Ensemble Techniques                                     | [milestone3](extra/project.md) | Feb 17  |
+| Mon - Feb 1  | Decision Trees                                          | [hw07](13_decision/hw_07.md)   | Feb 8   |
+| Wed - Feb 3  | Dimensionality Reduction                                |                                |         |
+| Mon - Feb 8  | NLP                                                     |                                |         |
+| Wed - Feb 10 | Recommendation Systems                                  |                                |         |
+| Mon - Feb 15 | **No Class**                                            |                                |         |
+| Wed - Feb 17 | Project Preparation Day                                 | [milestone4](extra/project.md) | Mar 2   |
+| Mon - Feb 22 | NLP                                                     |                                |         |
+| Wed - Feb 24 | Neural Networks                                         |                                |         |
+| Mon - Feb 29 | Map Reduce                                              |                                |         |
+| Wed - Mar 2  | TBD                                                     |                                |         |
+| Mon - Mar 7  | Final Presentations                                     |                                |         |
 
 ## Additional Resources
 [Simple guide to Git](http://rogerdudler.github.io/git-guide/)
