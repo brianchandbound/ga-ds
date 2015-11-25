@@ -5,8 +5,9 @@ Welcome to General Assembly's Chicago Data Science course! This is a foundationa
 
 
 ## Logistics
-* **Instructor:** [Brian Chung](mailto:bpchung2@gmail.com)
-* **Expert in Residence:** [Scott Little](mailto:scott.alan.little@gmail.com)
+* **Instructor:** [Brian Chung](https://generalassemb.ly/instructors/brian-chung/7457)
+* **Expert in Residence:** [Scott Little](https://generalassemb.ly/instructors/scott-little/7281)
+* **Staff Email:** [gadschicago@gmail.com](mailto:gadschicago@gmail.com)
 * **Producer:** [Kevin Sella](mailto:ksella@generalassemb.ly)
 * **Location:** 444 N. Wabash Ave., 5th floor, room 3
 * **Class Hours:** Mondays and Wednesdays, 6PM to 9PM unless otherwise noted
