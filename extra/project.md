@@ -1,4 +1,4 @@
-# Project Details
+# Final Project Details
 The final project represents a culmination of the methodologies and techniques students have learned throughout the course. While students should continuously work with staff and discuss ideas with other students, the work should be entirely their own.
 
 The project should address a data-related problem in your professional field or a field you are interested in. You will be asked to acquire a real-world data set, form a hypothesis about it, clean, parse, and apply modeling techniques and data analysis principles to ultimately create a predictive model.
