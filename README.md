@@ -6,10 +6,13 @@ Welcome to General Assembly's Chicago Data Science course! This is a foundationa
 
 ## Logistics
 * **Instructor:** [Brian Chung](mailto:bpchung2@gmail.com)
+* **Expert in Residence:** [Scott Little](mailto:scott.alan.little@gmail.com)
+* **Producer:** [Kevin Sella](mailto:ksella@generalassemb.ly)
 * **Location:** 444 N. Wabash Ave., 5th floor, room 3
 * **Class Hours:** Mondays and Wednesdays, 6PM to 9PM unless otherwise noted
 * **Office Hours:** Direct Message by Slack for quickest response, in-person office hours TBA
 * **Exit Tickets:** Please fill out an exit ticket at the end of every session: [Exit Ticket](https://docs.google.com/forms/d/1REdQ7NfMqwOnVqH192eO_vugZz1jlyZP8UZmBkMyO4s/viewform )
+
 
 ## Course Materials
 Students are required to bring a laptop to every session with the [Continuum Anaconda](https://www.continuum.io/downloads) Python 2.7 distribution installed.
@@ -20,7 +23,7 @@ You have all been invited to use Slack to chat throughout the day and in class. 
 
 
 ## Workload
-* Homework assignments will be listed on the github repo within each lesson's folder. Students must submit homeworks (i.e. ipython notebooks, Word docs, etc.) through TODO methods.
+* Homework assignments will be listed on the github repo within each lesson's folder. Students must submit homeworks (i.e. ipython notebooks, Word docs, etc.) to gadschicago [at] gmail. The subject format should be [HW01 - Student Name]. 
 * In addition, there will be a [Final Project](extra/project.md)
 * The project milestones will be treated as homeworks, and students are expected to complete them by the due dates.
 * Due to the intensity and magnitude of the final project, less homework assignments will be given near the end of the course. This is to provide more time to work on the project. 
