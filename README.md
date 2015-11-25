@@ -23,8 +23,8 @@ You have all been invited to use Slack to chat throughout the day and in class. 
 
 
 ## Workload
-* Homework assignments will be listed on the github repo within each lesson's folder. Students must submit homeworks (i.e. ipython notebooks, Word docs, etc.) to gadschicago [at] gmail. The subject format should be [HW01 - Student Name]. 
-* In addition, there will be a [Final Project](extra/project.md)
+* Homework assignments will be listed on the github repo within the [homework](hw/) folder. Students must submit homeworks (i.e. ipython notebooks, PDFs, etc.) to gadschicago [at] gmail. The subject format should be [HW## - Student Name]. 
+* In addition, there will be a [Final Project](extra/project.md).
 * The project milestones will be treated as homeworks, and students are expected to complete them by the due dates.
 * Due to the intensity and magnitude of the final project, less homework assignments will be given near the end of the course. This is to provide more time to work on the project. 
 
@@ -43,24 +43,24 @@ The schedule is subject to change per class needs and desires.
 
 | **Date**     | **Topic**                                               | **Homework Assigned**          | **Due** |
 |--------------|---------------------------------------------------------|--------------------------------|---------|
-| Mon - Dec 7  | [Intro To Data Science](01_intro)                       | [hw01](01_intro/hw_01.md)      | Dec 9   |
-| Wed - Dec 9  | [Probability and Linear Algebra with Pandas](02_pandas) | [hw02](02_pandas/hw_02.md)     | Dec 16  |
+| Mon - Dec 7  | [Intro To Data Science](01_intro)                       | [hw01](hw/hw_01.md)            | Dec 9   |
+| Wed - Dec 9  | [Probability and Linear Algebra with Python](02_pandas) | [hw02](hw/hw_02.md)            | Dec 16  |
 | Mon - Dec 14 | [K Nearest Neighbors](03_knn)                           | [milestone1](extra/project.md) | Dec 21  |     
-| Wed - Dec 16 | Cross Validation and Naive Bayes                        |                                |         | 
-| Mon - Dec 21 | Regression Pt 1                                         | [hw03](05_linear_pt1/hw_03.md) | Jan 4   |
+| Wed - Dec 16 | Naive Bayes                                             |                                |         | 
+| Mon - Dec 21 | Linear Regression                                       | [hw03](hw/hw_03.md)            | Jan 4   |
 | Wed - Dec 23 | **No Class**                                            |                                |         |
 | Mon - Dec 28 | **No Class**                                            |                                |         |
 | Wed - Dec 30 | **No Class**                                            |                                |         |
-| Mon - Jan 4  | Regression Pt 2 / Regularization                        | [hw04](06_linear_pt2/hw_04.md) | Jan 11  |
+| Mon - Jan 4  | Regularization and Cross Validation                     | [hw04](hw/hw_04.md)            | Jan 11  |
 | Wed - Jan 6  | LDA                                                     | [milestone2](extra/project.md) | Jan 25  | 
-| Mon - Jan 11 | Logistic Regression                                     | [hw05](08_logistic/hw_05.md)   | Jan 20  |
+| Mon - Jan 11 | Logistic Regression                                     | [hw05](hw/hw_05.md)            | Jan 20  |
 | Wed - Jan 13 | K Means Clustering                                      |                                |         |
 | Mon - Jan 18 | **No Class**                                            |                                |         |
 | Wed - Jan 20 | Model Assessment                                        |                                |         |
-| Mon - Jan 25 | SVM                                                     | [hw06](11_svm/hw_06.md)        | Feb 1   |
+| Mon - Jan 25 | SVM                                                     | [hw06](hw/hw_06.md)            | Feb 1   |
 | Wed - Jan 27 | Ensemble Techniques                                     | [milestone3](extra/project.md) | Feb 17  |
-| Mon - Feb 1  | Decision Trees                                          | [hw07](13_decision/hw_07.md)   | Feb 8   |
-| Wed - Feb 3  | Dimensionality Reduction                                | [hw08](14_dimension/hw_08.md)  | Feb 10  |
+| Mon - Feb 1  | Decision Trees                                          | [hw07](hw/hw_07.md)            | Feb 8   |
+| Wed - Feb 3  | Dimensionality Reduction                                | [hw08](hw/hw_08.md)            | Feb 10  |
 | Mon - Feb 8  | NLP                                                     |                                |         |
 | Wed - Feb 10 | Recommendation Systems                                  |                                |         |
 | Mon - Feb 15 | **No Class**                                            |                                |         |
