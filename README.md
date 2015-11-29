@@ -7,8 +7,8 @@ Welcome to General Assembly's Chicago Data Science course! This is a foundationa
 ## Logistics
 * **Instructor:** [Brian Chung](https://generalassemb.ly/instructors/brian-chung/7457)
 * **Expert in Residence:** [Scott Little](https://generalassemb.ly/instructors/scott-little/7281)
-* **Staff Email:** [gadschicago@gmail.com](mailto:gadschicago@gmail.com)
 * **Producer:** [Kevin Sella](mailto:ksella@generalassemb.ly)
+* **Staff Email:** [gadschicago@gmail.com](mailto:gadschicago@gmail.com)
 * **Location:** 444 N. Wabash Ave., 5th floor, room 3
 * **Class Hours:** Mondays and Wednesdays, 6PM to 9PM unless otherwise noted
 * **Office Hours:** Direct Message by Slack for quickest response, in-person office hours TBA
@@ -78,5 +78,7 @@ The schedule is subject to change per class needs and desires.
 * [Less simple guide to Git](https://www.atlassian.com/git/tutorials)
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 * [Top 10 ML Algorithms Simplified](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+* [Intro to Python tutorial](http://learnpythonthehardway.org)
+
 
 
