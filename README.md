@@ -26,7 +26,7 @@ You have all been invited to use Slack to chat throughout the day and in class. 
 ## Workload
 * Homework assignments will be listed on the github repo within the [homework](hw/) folder. Students must submit homeworks (i.e. ipython notebooks, PDFs, etc.) to gadschicago [at] gmail. The subject format should be [HW## - Student Name]. 
 * In addition, there will be a [Final Project](extra/project.md).
-* The project milestones will be treated as homeworks, and students are expected to complete them by the due dates.
+* The project milestones will be treated as homeworks, and students are expected to submit them by beginning of class on the due dates.
 * Due to the intensity and magnitude of the final project, less homework assignments will be given near the end of the course. This is to provide more time to work on the project. 
 
 

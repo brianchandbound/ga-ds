@@ -1,7 +1,7 @@
 # Final Project Details
 The final project represents a culmination of the methodologies and techniques students have learned throughout the course. While students should continuously work with staff and discuss ideas with other students, the work should be entirely their own.
 
-The project should address a data-related problem in your professional field or a field you are interested in. You will be asked to acquire a real-world data set, form a hypothesis about it, clean, parse, and apply modeling techniques and data analysis principles to ultimately create a predictive model.
+The project should address a data-related problem in your professional field, a field you are in, or a Kaggle competition. You will be asked to acquire a real-world data set, form a hypothesis about it, clean, parse, and apply modeling techniques and data analysis principles to ultimately create a predictive model.
 
 Deliverables include a technical paper as well as a final presentation on the last day of class.  
 
@@ -18,14 +18,13 @@ The technical paper (5-10 pages) should be directed toward the instructors and i
 The in-class presentation should be directed toward your student peers and be aimed at 7 minutes in length with 2-3 minutes of questions. The presentation should be more informal and bonus points for making it fun--3 hours of p-value discussions is draining!
 
 
-
 ## Milestone 1 - Due Dec 21
 #### Problem Defined and Dataset Gathered
-By the first milestone, you should have obtained a sizeable dataset and defined a problem of interest. You may use data from a field you are interested in or a Kaggle competition. DO check with your instructors prior to the milestone to get guidance with defining the problem. 
+By the first milestone, you should have obtained a sizeable dataset and defined a problem of interest. You may use data from a field you are interested in or a Kaggle competition. DO check with your instructors prior to the milestone to get guidance with defining the problem.  NOTE: If you are using a Kaggle competition, you may not use competitions from the "Getting Started" or "Playground" categories.
 
 #### Deliverable:
 * Link to dataset - Feel free to include a hyperlink, Google Drive link, etc.
-* PDF - In a one paragraph summary (5-10 sentences), describe the dataset, and the problem. Is this a supervised or unsupervised problem and is it in a regression or classification setting? Do you have any potential issues regarding the data or problem?
+* PDF - In a one paragraph summary (5-10 sentences), describe the dataset, and the problem. Is this a supervised or unsupervised problem and is it in a continuous or categorical setting (or a little bit of everything)? Do you have any potential issues regarding the data or problem?
 
 
 ## Milestone 2 - Due Jan 25
@@ -59,4 +58,9 @@ Significant project progress available. Multiple techniques or variants have bee
 * Link to the dataset used.
 * IPython notebook containing ALL of the code from loading the dataset to running various models and graphing. 
 * In class presentation of 10 minutes in length. Aim for 7 minutes of speaking, and allow for 2-3 minutes of questions.
+
+
+## Additional Resources
+[Project Ideas from Kaggle](https://www.kaggle.com/competitions)
+[Additional ideas](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science)
 
