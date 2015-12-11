@@ -39,6 +39,7 @@ Students must fulfill a number of requirements in order to receive General Assem
 
 
 
+
 ## Schedule
 The schedule is subject to change per class needs and desires.
 
