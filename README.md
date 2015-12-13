@@ -63,11 +63,11 @@ The schedule is subject to change per class needs and desires.
 | Wed - Jan 27 | Ensemble Techniques                                     | [milestone3](extra/project.md) | Feb 17  |
 | Mon - Feb 1  | Decision Trees                                          | [hw07](hw/hw_07.pdf)           | Feb 8   |
 | Wed - Feb 3  | Dimensionality Reduction                                | [hw08](hw/hw_08.pdf)           | Feb 10  |
-| Mon - Feb 8  | NLP                                                     |                                |         |
+| Mon - Feb 8  | Guest Lecture, NLP                                      |                                |         |
 | Wed - Feb 10 | Recommendation Systems                                  |                                |         |
 | Mon - Feb 15 | **No Class**                                            |                                |         |
 | Wed - Feb 17 | Project Preparation Day                                 | [milestone4](extra/project.md) | Mar 2   |
-| Mon - Feb 22 | NLP                                                     |                                |         |
+| Mon - Feb 22 | Graph Theory                                            |                                |         |
 | Wed - Feb 24 | Neural Networks                                         |                                |         |
 | Mon - Feb 29 | Map Reduce                                              |                                |         |
 | Wed - Mar 2  | TBD                                                     |                                |         |
