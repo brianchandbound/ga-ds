@@ -15,7 +15,7 @@ The technical paper (5-10 pages) should be directed toward the instructors and i
 * Future improvements
 
 
-The in-class presentation should be directed toward your student peers and be aimed at 7 minutes in length with 2-3 minutes of questions. The presentation should be more informal and bonus points for making it fun--3 hours of p-value discussions is draining!
+The in-class presentation should be directed toward your student peers and be aimed at 10 minutes total in length with 2-3 minutes of questions. The presentation should be more informal and bonus points for making it fun--3 hours of p-value discussions is draining!
 
 
 ## Milestone 1 - Due Dec 21
@@ -62,5 +62,8 @@ Significant project progress available. Multiple techniques or variants have bee
 
 ## Additional Resources
 [Project Ideas from Kaggle](https://www.kaggle.com/competitions)
+
 [Additional ideas](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science)
+
+[Example General Assembly projects](https://gallery.generalassemb.ly/DS)
 
