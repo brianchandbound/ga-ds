@@ -67,3 +67,8 @@ Significant project progress available. Multiple techniques or variants have bee
 
 [Example General Assembly projects](https://gallery.generalassemb.ly/DS)
 
+[KDNuggets Datasets](http://www.kdnuggets.com/datasets/index.html)
+
+[UCI Datasets](https://archive.ics.uci.edu/ml/datasets.html)
+
+
