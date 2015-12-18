@@ -82,6 +82,7 @@ The schedule is subject to change per class needs and desires.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Top 10 ML Algorithms Simplified](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Intro to Python tutorial](http://learnpythonthehardway.org)
+* [Visualization Tools](http://nbviewer.ipython.org/gist/msund/11349097)
 
 
 
