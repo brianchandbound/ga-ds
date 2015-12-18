@@ -78,6 +78,7 @@ The schedule is subject to change per class needs and desires.
 * [Simple guide to Git](http://rogerdudler.github.io/git-guide/)
 * [Less simple guide to Git](https://www.atlassian.com/git/tutorials)
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+* [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Top 10 ML Algorithms Simplified](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Intro to Python tutorial](http://learnpythonthehardway.org)
 
