@@ -76,7 +76,7 @@ The schedule is subject to change per class needs and desires.
 
 
 
-## Additional Resources
+## Additional Resources for Learning
 * [Simple guide to Git](http://rogerdudler.github.io/git-guide/)
 * [Less simple guide to Git](https://www.atlassian.com/git/tutorials)
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
