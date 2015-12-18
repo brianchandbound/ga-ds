@@ -75,6 +75,7 @@ The schedule is subject to change per class needs and desires.
 
 
 
+
 ## Additional Resources
 * [Simple guide to Git](http://rogerdudler.github.io/git-guide/)
 * [Less simple guide to Git](https://www.atlassian.com/git/tutorials)
