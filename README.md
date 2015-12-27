@@ -54,7 +54,7 @@ The schedule is subject to change per class needs and desires.
 | Mon - Dec 28 | **No Class**                                            |                                |         |
 | Wed - Dec 30 | **No Class**                                            |                                |         |
 | Mon - Jan 4  | Regularization and Cross Validation                     | [hw04](hw/hw_04.pdf)           | Jan 11  |
-| Wed - Jan 6  | LDA                                                     | [milestone2](extra/project.md) | Jan 25  | 
+| Wed - Jan 6  | Naive Bayes                                             | [milestone2](extra/project.md) | Jan 25  | 
 | Mon - Jan 11 | Logistic Regression                                     | [hw05](hw/hw_05.pdf)           | Jan 20  |
 | Wed - Jan 13 | K Means Clustering                                      |                                |         |
 | Mon - Jan 18 | **No Class**                                            |                                |         |
@@ -84,6 +84,7 @@ The schedule is subject to change per class needs and desires.
 * [Top 10 ML Algorithms Simplified](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Intro to Python tutorial](http://learnpythonthehardway.org)
 * [Visualization Tools](http://nbviewer.ipython.org/gist/msund/11349097)
+* [Great Intro textbook to Linear Algebra](http://www.amazon.com/Linear-Algebra-Introduction-Available-Enhanced/dp/0538735457/))
 
 
 
