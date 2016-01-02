@@ -53,7 +53,7 @@ The schedule is subject to change per class needs and desires.
 | Wed - Dec 23 | **No Class**                                            |                                |         |
 | Mon - Dec 28 | **No Class**                                            |                                |         |
 | Wed - Dec 30 | **No Class**                                            |                                |         |
-| Mon - Jan 4  | Regularization and Cross Validation                     | [hw04](hw/hw_04.pdf)           | Jan 11  |
+| Mon - Jan 4  | [Regularization and Cross Validation](06_regularization)| [hw04](hw/hw_04.pdf)           | Jan 11  |
 | Wed - Jan 6  | Naive Bayes                                             | [milestone2](extra/project.md) | Jan 25  | 
 | Mon - Jan 11 | Logistic Regression                                     | [hw05](hw/hw_05.pdf)           | Jan 20  |
 | Wed - Jan 13 | K Means Clustering                                      |                                |         |
