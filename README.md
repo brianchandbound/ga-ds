@@ -53,12 +53,12 @@ The schedule is subject to change per class needs and desires.
 | Wed - Dec 23 | **No Class**                                            |                                |         |
 | Mon - Dec 28 | **No Class**                                            |                                |         |
 | Wed - Dec 30 | **No Class**                                            |                                |         |
-| Mon - Jan 4  | [Regularization and Cross Validation](06_regularization)| [hw04](hw/hw_04.pdf)           | Jan 11  |
+| Mon - Jan 4  | [Regularization and Cross Validation](06_regularization)| No HW4                         |         |
 | Wed - Jan 6  | Naive Bayes                                             | [milestone2](extra/project.md) | Jan 25  | 
 | Mon - Jan 11 | Logistic Regression                                     | [hw05](hw/hw_05.pdf)           | Jan 20  |
 | Wed - Jan 13 | K Means Clustering                                      |                                |         |
 | Mon - Jan 18 | **No Class**                                            |                                |         |
-| Wed - Jan 20 | Model Assessment                                        |                                |         |
+| Wed - Jan 20 | Model Assessment/Project/Review                         |                                |         |
 | Mon - Jan 25 | SVM                                                     | [hw06](hw/hw_06.pdf)           | Feb 1   |
 | Wed - Jan 27 | Ensemble Techniques                                     | [milestone3](extra/project.md) | Feb 17  |
 | Mon - Feb 1  | Decision Trees                                          | [hw07](hw/hw_07.pdf)           | Feb 8   |
