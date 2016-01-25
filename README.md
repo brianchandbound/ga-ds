@@ -59,7 +59,7 @@ The schedule is subject to change per class needs and desires.
 | Wed - Jan 13 | [K Means Clustering](09_kmeans)                         |                                |         |
 | Mon - Jan 18 | **No Class**                                            |                                |         |
 | Wed - Jan 20 | [Model Assessment/Project/Review](10_models)            |                                |         |
-| Mon - Jan 25 | SVM                                                     |                                |         |
+| Mon - Jan 25 | [SVM](11_svm)                                           |                                |         |
 | Wed - Jan 27 | Decision Trees                                          | [milestone3](extra/project.md) | Feb 17  |
 | Mon - Feb 1  | Ensemble Techniques                                     |                                |         |
 | Wed - Feb 3  | Dimensionality Reduction                                | [hw08](hw/hw_08.pdf)           | Feb 10  |
