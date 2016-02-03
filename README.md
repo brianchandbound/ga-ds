@@ -62,7 +62,7 @@ The schedule is subject to change per class needs and desires.
 | Mon - Jan 25 | [SVM](11_svm)                                           |                                |         |
 | Wed - Jan 27 | [Decision Trees](12_trees)                              | [milestone3](extra/project.md) | Feb 17  |
 | Mon - Feb 1  | [Ensemble Techniques](13_ensemble)                      |                                |         |
-| Wed - Feb 3  | Dimensionality Reduction                                | [hw08](hw/hw_08.pdf)           | Feb 10  |
+| Wed - Feb 3  | Dimensionality Reduction                                |                                |         |
 | Mon - Feb 8  | Guest Lecture, NLP                                      |                                |         |
 | Wed - Feb 10 | Recommendation Systems                                  |                                |         |
 | Mon - Feb 15 | **No Class**                                            |                                |         |
