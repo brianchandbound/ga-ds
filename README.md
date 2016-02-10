@@ -64,7 +64,7 @@ The schedule is subject to change per class needs and desires.
 | Mon - Feb 1  | [Ensemble Techniques](13_ensemble)                      |                                |         |
 | Wed - Feb 3  | [Dimensionality Reduction](14_dimension)                |                                |         |
 | Mon - Feb 8  | [Guest Lecture, SVD, et al](15_guest)                   |                                |         |
-| Wed - Feb 10 | Recommendation Systems                                  |                                |         |
+| Wed - Feb 10 | [Recommendation Systems](16_recommendation)             |                                |         |
 | Mon - Feb 15 | **No Class**                                            |                                |         |
 | Wed - Feb 17 | Project Preparation Day                                 | [milestone4](extra/project.md) | Mar 2   |
 | Mon - Feb 22 | Integrating ML & Web Technologies                       |                                |         |
